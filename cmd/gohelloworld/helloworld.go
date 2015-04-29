@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"./gostringutil"
+	"github.com/ranjth/gohelloworld/gostringutil"
 )
 
 func main() {
